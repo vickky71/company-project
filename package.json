@@ -1,23 +1,15 @@
 {
-  "name": "easy-notes-app",
+  "name": "curdoperation",
   "version": "1.0.0",
-  "description": "Never miss a thing in Life. Take notes quickly. Organize and keep track of all your notes.",
-  "main": "server.js",
+  "description": "",
+  "main": "creatdatabse.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Express",
-    "RestAPI",
-    "MongoDB",
-    "Mongoose",
-    "Notes"
-  ],
-  "author": "Rohit Sharma",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.2",
     "express": "^4.17.3",
-    "mongoose": "^6.2.7"
+    "mongo": "^0.1.0"
   }
 }
